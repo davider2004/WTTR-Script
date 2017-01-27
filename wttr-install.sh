@@ -33,7 +33,5 @@ sudo apt-get install curl -y
 
 # Change permissions
 sudo chmod +x wttr.sh
-
-sudo apt-get remove figlet -y
-
+echo
 echo "Installation completed!"
