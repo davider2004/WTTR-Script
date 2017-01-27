@@ -5,7 +5,7 @@ This script use http://wttr.in/ website for make weather forecast.
 
   INSTALLATION
     1. Go on https://github.com/davider2004/WTTR-Script/archive/master.zip or do "git clone https://github.com/davider2004/WTTR-Script"
-    2. Do in the terminal "./wttr-install"
+    2. Do in the terminal "sudo sh wttr-install.sh"
     
   SETTINGS
     1. Do "sudo nano wttr"
@@ -16,4 +16,4 @@ This script use http://wttr.in/ website for make weather forecast.
     4. Finished
     
   USE
-    1. Do "./wttr" in the Terminal
+    1. Do "./wttr.sh" in the Terminal
