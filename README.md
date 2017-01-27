@@ -8,7 +8,7 @@ This script use http://wttr.in/ website for make weather forecast.
     2. Do in the terminal "./wttr-install"
     
   SETTINGS
-    1. Do "sudo nano wttr" 
+    1. Do "sudo nano wttr"
     2. In the file go in the 1 line under #CONFIGURATION
        EX:
          CITY="Turin" #NAME_OF_YOUR_SITE_IN_ENGLISH
