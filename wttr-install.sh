@@ -10,7 +10,7 @@ clear
 
 figlet "InfornBlog"
 echo "===================================================="
-
+echo
 echo "PRONTO!"
 echo 
 echo "This installer was made and distributed by RamondettiDavide.com. Do not download this software from unofficial sources."
