@@ -25,3 +25,15 @@ echo "Give the EXECUTION permission to the WTTR.SH file"
 echo
 echo "If you authorize, press ENTER"
 read
+echo
+echo "Installing......"
+
+# Install Curl
+sudo apt-get install curl -y
+
+# Change permissions
+sudo chmod +x wttr
+
+sudo apt-get remove figlet -y
+
+echo "Installation completed!"
